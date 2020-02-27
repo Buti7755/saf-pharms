@@ -1,0 +1,14 @@
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\bin\Debug\payRoll.exe.config
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\bin\Debug\payRoll.exe
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\bin\Debug\payRoll.pdb
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\bin\Debug\payRoll.xml
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\obj\Debug\payRoll.vbprojResolveAssemblyReference.cache
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\obj\Debug\payRoll.Form1.resources
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\obj\Debug\payRoll.Resources.resources
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\obj\Debug\payRoll.vbproj.GenerateResource.Cache
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\obj\Debug\payRoll.exe
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\obj\Debug\payRoll.xml
+c:\users\invincible\documents\visual studio 2015\Projects\payRoll\payRoll\obj\Debug\payRoll.pdb
+C:\Users\Invincible\documents\visual studio 2015\Projects\payRoll\payRoll\obj\Debug\payRoll.mainPage.resources
+C:\Users\Invincible\documents\visual studio 2015\Projects\payRoll\payRoll\obj\Debug\payRoll.setUp.resources
+C:\Users\Invincible\documents\visual studio 2015\Projects\payRoll\payRoll\obj\Debug\payRoll.accessControl.resources
